@@ -1,0 +1,5 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/prod.png"
+  remover_alpha_ios: true
